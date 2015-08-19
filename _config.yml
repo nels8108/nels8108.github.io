@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: ACM
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+analytics: UA-50546869-2
+baseurl: "/solid-jekyll" #important: start with /
+url: "http://nels8108.github.io"
 
 # Build settings
 markdown: kramdown
@@ -29,7 +29,7 @@ social:
   - title: dribbble
     url:
   - title: facebook
-    url:
+    url:https://www.facebook.com/acmuofmn
   - title: twitter
     url: 
   - title: instagram
@@ -40,20 +40,20 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
+    - Keller Hall, UMN,
+    - roady road, MN,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: acm@cs.umn.edu
+tel: 1-800-Go-ACM
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Steve Vandersmoot
     position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Here goes the text!
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -105,5 +105,5 @@ about: "Lorem Ipsum is simply dummy text of the printing and typesetting industr
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    author: Marcel Newman STINKS
+    position: WEB DESIGNER - BLACKTIE.CO wadhjskahdjlksadhlska
