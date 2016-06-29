@@ -29,15 +29,7 @@ social:
   - title: dribbble
     url:
   - title: facebook
-<<<<<<< HEAD
-<<<<<<< HEAD
-    url:"https://www.facebook.com/acmuofmn"
-=======
-    url:https://www.facebook.com/acmuofmn
->>>>>>> parent of b5a27cb... Update _config.yml
-=======
     url:
->>>>>>> origin/master
   - title: twitter
     url: 
   - title: instagram
