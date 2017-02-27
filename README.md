@@ -1,3 +1,5 @@
+[Link to built page](http://nels8108.github.io/)
+
 <<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/freelancer/)
 
