@@ -70,6 +70,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   background-image: url(../img/one.png);
+  background-size: 100% 100%;
   color: white;
 }
 header .container {
@@ -502,4 +503,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+.header{
+  background-image: url
 }
